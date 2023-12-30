@@ -1,3 +1,4 @@
+import './asserts/styles/custom.scss';
 import './App.css';
 
 function App() {
