@@ -1,13 +1,11 @@
-
 .button-icon {
-    width: 300px;
-    height: 123px;
-    flex-shrink: 0;
-    border-radius: 10px;
-    background: #ededed;
-    margin-top: 30px;
-  }
-  
+  width: 300px;
+  height: 123px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #ededed;
+  margin-top: 30px;
+}
 
 .btn-icon {
   width: 174px;
